@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\bin\Debug\Learning Databases.exe.config
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\bin\Debug\Learning Databases.exe
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\bin\Debug\Learning Databases.pdb
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning Databases.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning_Databases.Form1.resources
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning_Databases.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning Databases.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning Databases.exe
+F:\Visual Studio 2015\Projects\Learning Databases\Learning Databases\obj\Debug\Learning Databases.pdb
