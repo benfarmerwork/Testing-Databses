@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\bin\Debug\GetStudentForCourseTest.exe.config
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\bin\Debug\GetStudentForCourseTest.exe
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\bin\Debug\GetStudentForCourseTest.pdb
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.Form1.resources
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.exe
+F:\Visual Studio 2015\Projects\GetStudentForCourseTest\GetStudentForCourseTest\obj\Debug\GetStudentForCourseTest.pdb
